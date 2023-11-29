@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6b289c6f2ac22c42af2881c38e0aeca
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _RenderTex: {instanceID: 0}
+  - _ReticleTex: {instanceID: 0}
+  - _MetallicSmoothnessTex: {instanceID: 0}
+  - _NormalTex: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
